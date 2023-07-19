@@ -1,0 +1,1 @@
+{"name":"Local: DFS_tren_do_thi_vo_huong","url":"c:\\Samsung\\DFS_tren_do_thi_vo_huong.cpp","tests":[{"id":1689150670890,"input":"1\n\n6 9 5\n\n1 2\n\n1 3\n\n2 3\n\n2 4\n\n3 4\n\n3 5\n\n4 5\n\n4 6\n\n5 6","output":"5 3 1 2 4 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Samsung\\DFS_tren_do_thi_vo_huong.cpp","group":"local","local":true}
